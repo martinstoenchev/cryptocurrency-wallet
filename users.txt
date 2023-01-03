@@ -1,0 +1,1 @@
+martin;3438118.4077197625;{ [Asset ID: NIS | Asset quantity: 33161.300376803670] };$argon2id$v=19$m=15360,t=2,p=1$zYLArsZYwUsgMzheVownM2x314e+bWwwLIMEeYkZcrI$ab58qiUDaJkPBsfZwZ5ied9/tdFRVUa9GEGY0KtypcLaqA5vLb2kXCv6mLpGf1Mo8idUZDtKtt/tqflqoxBbfw
